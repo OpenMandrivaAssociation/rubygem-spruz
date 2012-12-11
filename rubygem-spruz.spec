@@ -53,3 +53,13 @@ Documents, RDoc & RI documentation for %{name}.
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/tests
 %{ruby_gemdir}/gems/%{rbname}-%{version}/tests/*.rb
 
+
+
+%changelog
+* Tue Mar 29 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 0.2.5-1
++ Revision: 648722
+- imported package rubygem-spruz
+
+
+* Tue Mar 29 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 0.2.5-1
+- Initial package
