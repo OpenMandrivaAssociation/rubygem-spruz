@@ -5,7 +5,7 @@ Summary:	Useful stuff
 Name:		rubygem-%{rbname}
 
 Version:	0.2.5
-Release:	1
+Release:	2
 Group:		Development/Ruby
 License:	BSD
 URL:		http://flori.github.com/spruz
