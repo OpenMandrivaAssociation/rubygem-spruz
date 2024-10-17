@@ -8,7 +8,7 @@ Version:	0.2.5
 Release:	2
 Group:		Development/Ruby
 License:	BSD
-URL:		http://flori.github.com/spruz
+URL:		https://flori.github.com/spruz
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildArch:	noarch
